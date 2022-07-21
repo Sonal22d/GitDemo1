@@ -1,0 +1,10 @@
+//import java.util.scanner;
+public class Fibo{
+	public static void main (String[] args){
+		int a=0,b=1,c,
+		c=a+b;
+		a=b;
+		b=c;
+		system.out.println("a, b, c"+a +b +c);
+	}
+}
